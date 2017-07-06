@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_websocketchat",
+  "version": "0.0.0",
+  "description": "nodejs_websocketchat",
+  "main": "server.js",
+  "author": {
+    "name": "samar"
+  }
+}
